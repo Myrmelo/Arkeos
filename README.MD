@@ -42,7 +42,7 @@ Ceci avec pour objectif :
 ## Fonctionnalités à venir (V2)
 
 - Agenda participatif
-- Geolocalisation des membres sur une map
+- Géolocalisation des membres sur une map
 - Fiches d'élevage
 - Partage des articles et fiches d'élevage sur les réseaux sociaux
 - Moteur de recherche pour la législation par espèce
