@@ -4,7 +4,7 @@
 
 # Arkeos
 
-Arkeos est une plateforme dédiée à la mise en relation, et à l'échange d'informations entre passionés de terrariophilie.
+Arkeos est une plateforme dédiée à la mise en relation, et à l'échange d'informations entre passionnés de terrariophilie.
 
 ## Pourquoi Arkeos ?
 
